@@ -26,12 +26,12 @@
   },
   "homepage": "https://github.com/martinroob/ngx-i18nsupport#readme",
   "dependencies": {
-    "@ngx-i18nsupport/ngx-i18nsupport": "^1.1.6",
+    "@ngx-i18nsupport/ngx-i18nsupport": "file:../ngx-i18nsupport",
     "tslib": "^2.0.0"
   },
   "peerDependencies": {
-    "@angular/common": "^8.0.0",
-    "@angular/core": "^8.0.0"
+    "@angular/common": "^10.1.2",
+    "@angular/core": "^10.1.2"
   },
   "main": "bundles/ngx-i18nsupport-tooling.umd.js",
   "module": "fesm2015/ngx-i18nsupport-tooling.js",
