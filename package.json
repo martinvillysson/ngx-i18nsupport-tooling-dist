@@ -26,7 +26,7 @@
   },
   "homepage": "https://github.com/martinroob/ngx-i18nsupport#readme",
   "dependencies": {
-    "@ngx-i18nsupport/ngx-i18nsupport": "file:../ngx-i18nsupport",
+	"@ngx-i18nsupport/ngx-i18nsupport": "github:martinvillysson/ngx-i18nsupport-dist#master",
     "tslib": "^2.0.0"
   },
   "peerDependencies": {
